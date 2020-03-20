@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_switch1.cmdbext_user" name="sn_switch1.cmdbext_user">7c3c962777230010ca3ab5b2681061ea</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 18:59:24</sys_created_on>
+        <sys_id>b03c962777230010ca3ab5b2681061ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7c3c962777230010ca3ab5b2681061ea</sys_name>
+        <sys_package display_value="switch1" source="sn_switch1">3833609777230010ca3ab5b2681061b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="switch1">3833609777230010ca3ab5b2681061b8</sys_scope>
+        <sys_update_name>sys_embedded_help_role_b03c962777230010ca3ab5b2681061ee</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 18:59:24</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

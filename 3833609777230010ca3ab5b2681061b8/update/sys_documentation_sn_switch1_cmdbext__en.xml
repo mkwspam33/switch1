@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="str1" label="Str1" language="en" table="sn_switch1_a1">
+    <sys_documentation element="" label="CMDBExt" language="en" table="sn_switch1_cmdbext">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>str1</element>
+            <element/>
             <help/>
             <hint/>
-            <label>Str1</label>
+            <label>CMDBExt</label>
             <language>en</language>
-            <name>sn_switch1_a1</name>
-            <plural>Str1s</plural>
+            <name>sn_switch1_cmdbext</name>
+            <plural>CMDBExts</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2020-03-20 14:09:13</sys_created_on>
-            <sys_id>2ab912e377230010ca3ab5b2681061b5</sys_id>
+            <sys_created_on>2020-03-20 18:59:25</sys_created_on>
+            <sys_id>c53cd62777230010ca3ab5b2681061c7</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>Str1</sys_name>
+            <sys_name>CMDBExt</sys_name>
             <sys_package display_value="switch1" source="sn_switch1">3833609777230010ca3ab5b2681061b8</sys_package>
             <sys_policy/>
             <sys_scope display_value="switch1">3833609777230010ca3ab5b2681061b8</sys_scope>
-            <sys_update_name>sys_documentation_sn_switch1_a1_str1_en</sys_update_name>
+            <sys_update_name>sys_documentation_sn_switch1_cmdbext__en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2020-03-20 14:09:13</sys_updated_on>
+            <sys_updated_on>2020-03-20 18:59:25</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>

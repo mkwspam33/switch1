@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_app_server" label="CMDBExt" max_length="40" name="sn_switch1_cmdbext" type="collection">
+        <element label="Cool Server Stuff" max_length="40" name="cool_server_stuff" type="string"/>
+    </element>
+</database>
