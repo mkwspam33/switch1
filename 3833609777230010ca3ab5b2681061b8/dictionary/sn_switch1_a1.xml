@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="a1" max_length="40" name="sn_switch1_a1" type="collection">
+        <element label="Int1" max_length="40" name="int1" type="integer"/>
+        <element label="Str1" max_length="40" name="str1" type="string"/>
+    </element>
+</database>

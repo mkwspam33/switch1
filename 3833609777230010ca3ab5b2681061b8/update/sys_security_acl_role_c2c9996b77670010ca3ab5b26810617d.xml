@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-20 14:09:12</sys_created_on>
+        <sys_id>c2c9996b77670010ca3ab5b26810617d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_switch1_a1.sn_switch1.a1_user</sys_name>
+        <sys_package display_value="switch1" source="sn_switch1">3833609777230010ca3ab5b2681061b8</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="switch1">3833609777230010ca3ab5b2681061b8</sys_scope>
+        <sys_security_acl display_value="sn_switch1_a1">c2c9996b77670010ca3ab5b26810617a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c2c9996b77670010ca3ab5b26810617d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-20 14:09:12</sys_updated_on>
+        <sys_user_role display_value="sn_switch1.a1_user" name="sn_switch1.a1_user">71c9596b77670010ca3ab5b2681061ee</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
