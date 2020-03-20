@@ -32,7 +32,7 @@
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="String">string</internal_type>
+        <internal_type display_value="Integer">integer</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>sn_switch1_a1</name>
@@ -53,15 +53,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-03-20 14:09:55</sys_created_on>
-        <sys_id>5ae9d96b77670010ca3ab5b2681061a7</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_id>d580e56f77670010ca3ab5b2681061d8</sys_id>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Str2</sys_name>
         <sys_package display_value="switch1" source="sn_switch1">3833609777230010ca3ab5b2681061b8</sys_package>
         <sys_policy/>
         <sys_scope display_value="switch1">3833609777230010ca3ab5b2681061b8</sys_scope>
         <sys_update_name>sys_dictionary_sn_switch1_a1_str2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-03-20 14:09:55</sys_updated_on>
+        <sys_updated_on>2020-03-20 14:43:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
